@@ -13,7 +13,11 @@ These algorithms are specifically designed for searching in sorted data-structur
 **Searching Algorithms :**
 
 Linear Search
+
 Binary Search
+
 Jump Search
+
 Interpolation Search
+
 Exponential Search
