@@ -6,3 +6,7 @@ A simple approach is to do a linear search, i.e
 -If x matches with an element, return the index.
 
 -If x doesn’t match with any of elements, return -1.
+
+**The time complexity of the above algorithm is O(n). **
+
+Linear search is rarely used practically because other search algorithms such as the binary search algorithm and hash tables allow significantly faster-searching comparison to Linear search.
