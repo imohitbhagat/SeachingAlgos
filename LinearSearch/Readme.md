@@ -28,15 +28,15 @@ You will learn about each one of them in a bit more detail.
 
 The element being searched could be found in the first position.
 In this case, the search ends with a single successful comparison.
-Thus, in the best-case scenario, the linear search algorithm performs O(1) operations.
+Thus, in the best-case scenario, the linear search algorithm performs **O(1)** operations.
 
 **Worst Case Complexity**
 
 The element being searched may be at the last position in the array or not at all.
 In the first case, the search succeeds in ‘n’ comparisons.
 In the next case, the search fails after ‘n’ comparisons.
-Thus, in the worst-case scenario, the linear search algorithm performs O(n) operations.
+Thus, in the worst-case scenario, the linear search algorithm performs **O(n)** operations.
 
 **Average Case Complexity**
 
-When the element to be searched is in the middle of the array, the average case of the Linear Search Algorithm is O(n).
+When the element to be searched is in the middle of the array, the average case of the Linear Search Algorithm is **O(n)**.
