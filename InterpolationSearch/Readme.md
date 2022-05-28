@@ -13,3 +13,9 @@ arr[] ==> Array where elements need to be searched
 x     ==> Element to be searched
 lo    ==> Starting index in arr[]
 hi    ==> Ending index in arr[]
+
+
+**The complexity of Interpolation Search Technique**
+
+**Time Complexity**: O(log2(log2 n)) for the average case, and O(n) for the worst case (when items are distributed exponentially)
+**Space Complexity**: O(1)
