@@ -1,10 +1,10 @@
 Like Binary Search, Jump Search is a searching algorithm for sorted arrays. The basic idea is to check fewer elements (than linear search) by jumping ahead by fixed steps or skipping some elements in place of searching all elements.
 
-Time Complexity :** O(√n) **
-Auxiliary Space :** O(1)**
+Time Complexity : **O(√n)**
+Auxiliary Space : **O(1)**
 
 
-**Important points: **
+**Important points:**
  
 1) Works only sorted arrays.
 2) The optimal size of a block to be jumped is (√ n). 
